@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Axtoxy.github.io/rsschool-cv/cv

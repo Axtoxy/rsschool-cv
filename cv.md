@@ -1,5 +1,5 @@
 # Anton Yakubson
-*******************
+
 
 
 ### **Contacts:**
@@ -17,7 +17,8 @@ I am 33 years old. I am an engineer. My goal is to study at RS-School and become
 + Courses at "Mella Rossa" IT School on html/css/js/angular;
 
 ### **Code example:**
-*Create Phone Number KATA form CODEWARS:* _Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number._
+*Create Phone Number KATA form CODEWARS:*
+ _Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number._
 ```
 function createPhoneNumber(numbers){
 
