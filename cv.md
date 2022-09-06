@@ -41,4 +41,4 @@ function createPhoneNumber(numbers){
 ### **Languages:**
 - Belarusian - Natiev
 - Russian - Natiev
-- English - Beginer
+- English - Beginner
